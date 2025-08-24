@@ -1,0 +1,15 @@
+html{
+    background-color: rgba(146, 11, 180, 0.225);
+    font-family: Verdana;
+    color: rgb(146, 11, 180);
+}
+
+p{
+    background-color: rgb(104, 0, 127);
+    color: white;
+}
+
+ol{
+    background-color: rgba(137, 43, 226, 0.397);
+    color: rgb(137, 43, 226);
+}
